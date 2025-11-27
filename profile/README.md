@@ -1,6 +1,6 @@
 <div align="center">
 
-/*<img src="https://images.unsplash.com/photo-1518531933037-9a82bf558661?q=80&w=1000&auto=format&fit=crop" alt="Lotus Banner" width="100%" style="border-radius: 10px;"/>*/
+<img src="https://images.unsplash.com/photo-1518531933037-9a82bf558661?q=80&w=1000&auto=format&fit=crop" alt="Lotus Banner" width="100%" style="border-radius: 10px;"/>
 
 <br/>
 
@@ -58,15 +58,20 @@ Utilizamos as melhores ferramentas do mercado para garantir performance e qualid
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/SEU_USUARIO_GITHUB">
+      <a href="https://github.com/jpguelerazevedo">
         <img src="https://github.com/jpguelerazevedo.png" width="100px;" style="border-radius:50%;" alt="João Paulo Gueller Azevedo"/><br />
-        <sub><b>João Paulo Gueller Azevedo</b></sub>
-        <img src="https://github.com/PhenBD.png" width="100px;" style="border-radius:50%;" alt="Pedro Henrique Bravim"/><br />
-        <sub><b>João Paulo Gueller Azevedo</b></sub>
+        <sub><b>João Paulo G. Azevedo</b></sub>
       </a><br />
       <span title="Co-Founder">🏛️ Co-Founder & CEO</span>
     </td>
-   </tr>
+    <td align="center">
+      <a href="https://github.com/PhenBD">
+        <img src="https://github.com/PhenBD.png" width="100px;" style="border-radius:50%;" alt="Pedro Henrique Bravim Duarte"/><br />
+        <sub><b>Pedro Henrique B. Duarte</b></sub>
+      </a><br />
+      <span title="Co-Founder">🏛️ Co-Founder & CEO</span>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -77,7 +82,7 @@ Utilizamos as melhores ferramentas do mercado para garantir performance e qualid
   
 ### Vamos construir o futuro juntos?
 
-![Lotus GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Lotus GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpguelerazevedo&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Lotus%20Stats)
 
 <br/>
 
