@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1518531933037-9a82bf558661?q=80&w=1000&auto=format&fit=crop" alt="Lotus Banner" width="100%" style="border-radius: 10px;"/>
+/*<img src="https://images.unsplash.com/photo-1518531933037-9a82bf558661?q=80&w=1000&auto=format&fit=crop" alt="Lotus Banner" width="100%" style="border-radius: 10px;"/>*/
 
 <br/>
 
@@ -59,7 +59,7 @@ Utilizamos as melhores ferramentas do mercado para garantir performance e qualid
   <tr>
     <td align="center">
       <a href="https://github.com/SEU_USUARIO_GITHUB">
-        <img src="https://github.com/SEU_USUARIO_GITHUB.png" width="100px;" style="border-radius:50%;" alt="João Paulo Gueller Azevedo"/><br />
+        <img src="https://github.com/jpguelerazevedo.png" width="100px;" style="border-radius:50%;" alt="João Paulo Gueller Azevedo"/><br />
         <sub><b>João Paulo Gueller Azevedo</b></sub>
       </a><br />
       <span title="Co-Founder">🏛️ Co-Founder & CEO</span>
