@@ -61,6 +61,8 @@ Utilizamos as melhores ferramentas do mercado para garantir performance e qualid
       <a href="https://github.com/SEU_USUARIO_GITHUB">
         <img src="https://github.com/jpguelerazevedo.png" width="100px;" style="border-radius:50%;" alt="João Paulo Gueller Azevedo"/><br />
         <sub><b>João Paulo Gueller Azevedo</b></sub>
+        <img src="https://github.com/PhenBD.png" width="100px;" style="border-radius:50%;" alt="Pedro Henrique Bravim"/><br />
+        <sub><b>João Paulo Gueller Azevedo</b></sub>
       </a><br />
       <span title="Co-Founder">🏛️ Co-Founder & CEO</span>
     </td>
