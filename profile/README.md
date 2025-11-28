@@ -14,7 +14,7 @@
 
 <br/>
 
-[Website](https://seusite.com) • [LinkedIn](https://linkedin.com/company/sua-empresa) • [Contato](mailto:contato@lotus.com)
+[Website](https://seusite.com) • [LinkedIn](https://linkedin.com/company/sua-empresa) • [Contato](mailto:contato.lotus.sds@gmail.com)
 
 ---
 
