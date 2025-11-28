@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1518531933037-9a82bf558661?q=80&w=1000&auto=format&fit=crop" alt="Lotus Banner" width="100%" style="border-radius: 10px;"/>
+<img src="LOTUSGREEN.svg" alt="Lotus Banner" width="100px" style="border-radius: 10px;"/>
 
 <br/>
 
-# 🪷 Lotus Soluções em Software
+# Lotus Soluções em Software
 
 ### *Inovação que floresce através do código.*
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Desenvolvimento+de+Software;Solu%C3%A7%C3%B5es+Personalizadas;Tecnologia+de+Ponta;Desde+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Desenvolvimento+de+Software;Solu%C3%A7%C3%B5es+Personalizadas;Tecnologia+de+Ponta;Desde+2025" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -80,12 +80,10 @@ Utilizamos as melhores ferramentas do mercado para garantir performance e qualid
   
 ---
   
-### Vamos construir o futuro juntos?
-
-![Lotus GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpguelerazevedo&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Lotus%20Stats)
+### $\color{#32CD32}\text{Vamos construir o futuro juntos?}$
 
 <br/>
 
-Developed with 💜 by **Lotus Team** © 2025
+Developed with ❤️ by **Lotus Team** © 2025
 
 </div>
