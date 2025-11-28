@@ -4,7 +4,7 @@
 
 <br/>
 
-# Lotus Soluções em Software
+# Lotus Soluções em Desenvolvimento de Software
 
 ### *Inovação que floresce através do código.*
 
